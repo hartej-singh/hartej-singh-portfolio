@@ -63,7 +63,6 @@ pypiwin32==223
 python-dateutil==2.8.2
 python-engineio==4.3.1
 python-socketio==5.5.2
-pytz==2022.1
 pywin32==304
 regex==2022.4.24
 requests==2.28.1
