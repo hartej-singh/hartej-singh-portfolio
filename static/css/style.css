@@ -280,6 +280,39 @@ h6 {
   background-color: #0563bb;
 }
 
+/* Cover Letter Section */
+.cover-letter {
+  padding: 60px 0;
+}
+
+.cover-letter-content {
+  background: #f8f9fa;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.cover-letter-text {
+  font-size: 16px;
+  line-height: 1.8;
+  color: #555;
+}
+
+.cover-letter-text p {
+  margin-bottom: 20px;
+}
+
+.cover-letter-text p:first-child {
+  font-weight: 600;
+  color: #333;
+}
+
+.cover-letter-text p:last-child {
+  margin-bottom: 0;
+  font-weight: 600;
+  color: #333;
+}
+
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
